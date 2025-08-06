@@ -29,8 +29,8 @@ $blue: #0000ff;
 
 /* 主要背景和字体颜色 */
 $body-bg: $theme-white;
-$body-color: $theme-darkcoffee1; /* 正文字体颜色 */
-$headings-color: $theme-darkcoffee1; /* 标题字体颜色 */
+$body-color: $theme-blue1; /* 正文字体颜色 */
+$headings-color: $theme-blue1; /* 标题字体颜色 */
 $link-color: $theme-black; /* 默认超链接颜色 */
 
 /* 代码样式 */
@@ -67,8 +67,8 @@ $font-prompt: 'Prompt', sans-serif;
 $font-size-root: 16px; /* 根字体大小 */
 
 /* 链接颜色 */
-$link-color: $red; /* 链接的颜色为红色 */
-$link-hover-color: $blue; /* 链接悬停时的颜色 */
+$link-color: $blue; /* 链接的颜色为蓝色 */
+$link-hover-color: $theme-grey; /* 链接悬停时的颜色 */
 
 /*-- scss:rules --*/
 
@@ -104,19 +104,19 @@ code {
 
 /* 标题样式 */
 h1 {
-  color: $theme-darkcoffee3;
+  color: $theme-blue1;
   font-family: $font-pt;
   font-size: 40px;
 }
 
 h2 {
-  color: $theme-darkcoffee3;
+  color: $theme-blue1;
   font-family: $font-pt;
   font-size: 30px;
 }
 
 h3, h4 {
-  color: $theme-darkcoffee3;
+  color: $theme-blue1;
   font-family: $font-pt;
 }
 

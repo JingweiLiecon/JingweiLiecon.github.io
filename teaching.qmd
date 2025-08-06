@@ -5,7 +5,7 @@ editor: visual
 
 ### Teaching Assistant
 
-Statistical Inference for Data Science: Undergraduate Level
+Statistical Inference for Data Science: Undergraduate Level<br>
 Fall 2024, Spring 2025
 
 
