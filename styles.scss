@@ -24,6 +24,7 @@ $theme-orange: #f9af11;
 $theme-pumpkin: #d05808;
 $theme-darkgreen1: #355E3B;
 $theme-darkgreen2: #445740;
+$theme-blue1: #003DA5;
 
 /* 新增红色变量定义 */
 $red: #ff0000; /* 定义红色变量 */
@@ -32,8 +33,8 @@ $blue: #0000ff;  /* 定义蓝色变量 */
 /* 主要背景和字体颜色 */
 $body-bg: $theme-white;
 $body-color: $theme-darkcoffee1; /* 正文字体颜色 */
-$headings-color: $theme-milkcoffee2; /* 标题字体颜色 */
-$link-color: $red; /* 默认超链接颜色 */
+$headings-color: $theme-milkcoffee1; /* 标题字体颜色 */
+$link-color: $theme-black; /* 默认超链接颜色 */
 
 /* 代码样式 */
 $code-color: $theme-mocha2; /* 代码文本颜色 */
@@ -42,7 +43,7 @@ $code-block-bg-alpha: -0.8; /* 代码块背景的透明度 */
 $background-color: $theme-milkcoffee0; /* 页面背景色 */
 
 /* 导航栏 */
-$navbar-bg: $theme-darkgreen1; /* 导航栏背景颜色 */
+$navbar-bg: $theme-blue1; /* 导航栏背景颜色 */
 
 /* 提示框颜色 */
 $callout-color-note: $theme-darkgreen2; /* 提示框的注释颜色 */

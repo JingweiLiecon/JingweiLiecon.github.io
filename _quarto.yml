@@ -17,7 +17,7 @@ website:
     
   navbar: 
     background: "#003DA5"
-    search: true
+    search: false
     right: 
       - text: "MAIN"
         href: index.qmd
