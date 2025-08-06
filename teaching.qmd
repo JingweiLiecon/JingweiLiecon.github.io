@@ -1,15 +1,12 @@
 ---
 title: "Teaching"
-editor: 
-  markdown: 
-    wrap: 72
+editor: visual
 ---
 
 ### Teaching Assistant
 
-| Course                                         |                           |
-|------------------------------------------------|---------------------------|
-| Statistical Inference for Data Science: Undergraduate Level | Fall 2024, Spring 2025|
+Statistical Inference for Data Science: Undergraduate Level
+Fall 2024, Spring 2025
 
 
 
