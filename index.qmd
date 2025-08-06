@@ -20,6 +20,8 @@ about:
 
 ::: {#hero-heading}
 
+&emsp;
+
 Welcome! I’m a PhD candidate in Economics at Singapore Management University. I work in the fields of Empirical Industrial Organization, Health Economics, and Development Economics.
 
 

@@ -11,7 +11,7 @@ website:
   
   page-footer:
     left: |
-      [Li Jingwei]<br>
+      &nbsp;
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
@@ -27,7 +27,7 @@ website:
         href: research.qmd
       - text: "TEACHING"
         href: teaching.qmd
-      - text: "Miscellaneous"
+      - text: "OTHERS"
         href: others.qmd
 
 format:
