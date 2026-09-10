@@ -1,8 +1,5 @@
 ---
-title: " "
-editor: 
-  markdown: 
-    wrap: 72
+title: ""
 ---
 
 ### Teaching Assistant
