@@ -1,26 +1,34 @@
 ---
-title: "Li Jingwei"
-image: images/Jingwei_2025_Outdoors.jpg
-about:
-  id: hero-heading
-  template: trestles
-  image-width: 12em
-  image-shape: round
-  links:
-    - icon: mailbox
-      text: jingwei.li.2023@smu.edu.sg
-      href: mailto:jingwei.li.2023@smu.edu.sg
-    - icon: Linkedin
-      text: LinkedIn
-      href: https://www.linkedin.com/in/jingwei-li-1279751ab/
-    - icon: 📝
-      text: CV
-      href: Li Jingwei - SMU.pdf  
+title: ""
+page-layout: full
 ---
 
-::: {#hero-heading}
+::: {.homepage}
 
-Welcome! I’m a PhD candidate in Economics at Singapore Management University. I work in the fields of Empirical Industrial Organization, Health Economics, and Development Economics.
+::: {.bio-text}
 
+Welcome! My name is Jingwei Li. I am a fourth-year PhD candidate in Economics at Singapore Management University.
+
+My research interests are in Empirical Industrial Organization, Public Economics, and Consumer Choice. I am particularly interested in how competition, pricing, and market institutions shape firm behavior and consumer outcomes, with a focus on healthcare and retail markets.
+
+I am advised by Prof. [Aljoscha Janssen](https://aljoschajanssen.com/).
+
+You can find my [CV](Li Jingwei - SMU.pdf) here.
+
+::: {.contact-buttons}
+
+[✉ jingwei.li.2023@smu.edu.sg](mailto:jingwei.li.2023@smu.edu.sg){.contact-button}
+
+[LinkedIn](https://www.linkedin.com/in/jingwei-li-1279751ab/){.contact-button}
+
+:::
+
+:::
+
+::: {.bio-photo}
+
+![](images/Jingwei_2025_Outdoors.jpg)
+
+:::
 
 :::

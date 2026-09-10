@@ -11,26 +11,28 @@ website:
   
   page-footer:
     left: |
-      [Li Jingwei]<br>
+    
     right: |
       Made with [Quarto](https://quarto.org/)<br>
     
   navbar: 
-    background: "#003DA5"
-    search: true
-    right: 
-      - text: "MAIN"
-        href: index.qmd
+    background: "#FFFFFF"
+    foreground: "#555555"
+    search: false
+
+    left: 
       - text: "CV"
         href: Li Jingwei - SMU.pdf
-      - text: "RESEARCH"
+      - text: "Research"
         href: research.qmd
-      - text: "TEACHING"
+      - text: "Teaching"
         href: teaching.qmd
-      - text: "Miscellaneous"
-        href: others.qmd
+      
 
 format:
   html:
     theme: styles.scss
-    toc: false        
+    toc: false
+    include-in-header:
+      text: |
+        <meta name="google-site-verification" content="hbBIZGbZ5ZvrQZpagCLS-PWdkx6w-QN6ccPyNFLt13M" />      

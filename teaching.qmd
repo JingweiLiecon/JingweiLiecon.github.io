@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: ""
 editor: 
   markdown: 
     wrap: 72
