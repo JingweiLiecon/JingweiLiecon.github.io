@@ -24,7 +24,7 @@ website:
 
     left: 
       - text: "CV"
-        href: Li Jingwei - SMU.pdf
+        href: cv.qmd
       - text: "Research"
         href: research.qmd
       - text: "Teaching"

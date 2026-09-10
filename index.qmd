@@ -13,7 +13,7 @@ My research interests are in Empirical Industrial Organization, Public Economics
 
 I am advised by Prof. [Aljoscha Janssen](https://aljoschajanssen.com/).
 
-You can find my [CV](Li Jingwei - SMU.pdf) here.
+You can find my [CV](cv.qmd) here.
 
 ::: {.contact-buttons}
 
