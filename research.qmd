@@ -9,9 +9,8 @@ editor: visual
 
 with Aljoscha Janssen and Manuel Hermosilla
 
-
 ## Work in Progress
 
 ### When Disadvantage Reduces Pressure: Classroom Composition and Teacher Job Stress in China
 
-with Ying Liu
+with [Ying Liu](https://yingliu2022.github.io)
