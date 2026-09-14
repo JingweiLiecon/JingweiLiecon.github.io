@@ -3,17 +3,17 @@ title: ""
 page-layout: full
 ---
 
+# Jingwei Li {.homepage-name}
+
 ::: {.homepage}
 
 ::: {.bio-text}
 
-Welcome! My name is Jingwei Li. I am a fourth-year PhD candidate in Economics at Singapore Management University.
+Welcome! I am a fourth-year PhD candidate in Economics at Singapore Management University, advised by [Prof. Aljoscha Janssen](https://aljoschajanssen.com/).
 
 My research interests are in Empirical Industrial Organization, Public Economics, and Consumer Choice. I am particularly interested in how competition, pricing, and market institutions shape firm behavior and consumer outcomes, with a focus on healthcare and retail markets.
 
-I am advised by Prof. [Aljoscha Janssen](https://aljoschajanssen.com/).
-
-You can find my [CV](cv.qmd) here.
+Please find my [CV](cv.qmd) here.
 
 ::: {.contact-buttons}
 

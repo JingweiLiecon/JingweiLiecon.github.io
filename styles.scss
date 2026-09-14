@@ -266,3 +266,18 @@ code {
   color: #0d5f9f !important;
   text-decoration: none !important;
 }
+.homepage-name {
+  text-align: center;
+  font-size: 46px;
+  font-weight: 400;
+  margin-top: 20px;
+  margin-bottom: 45px;
+  letter-spacing: 1px;
+}
+.bio-text,
+.bio-text p {
+  text-align: left !important;
+}
+.contact-buttons {
+  justify-content: flex-start;
+}
